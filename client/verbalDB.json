@@ -1,0 +1,246 @@
+{
+  "verbalQuestions": [
+    {
+      "id": 1,
+      "question": "Choose the correct synonym of 'Rapid'.",
+      "options": {
+        "A": "Slow",
+        "B": "Fast",
+        "C": "Hard",
+        "D": "Late"
+      },
+      "answer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "Fill in the blank: He _____ to the store yesterday.",
+      "options": {
+        "A": "goes",
+        "B": "gone",
+        "C": "went",
+        "D": "going"
+      },
+      "answer": "C",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "Antonym of 'Generous' is?",
+      "options": {
+        "A": "Kind",
+        "B": "Stingy",
+        "C": "Rich",
+        "D": "Poor"
+      },
+      "answer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct spelling:",
+      "options": {
+        "A": "Recieve",
+        "B": "Receive",
+        "C": "Receeve",
+        "D": "Reseve"
+      },
+      "answer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "id": 5,
+      "question": "Which word is a noun?",
+      "options": {
+        "A": "Run",
+        "B": "Quickly",
+        "C": "Happiness",
+        "D": "Blue"
+      },
+      "answer": "C",
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "question": "Choose the word opposite in meaning to 'ancient':",
+      "options": {
+        "A": "Old",
+        "B": "Modern",
+        "C": "Antique",
+        "D": "Historic"
+      },
+      "answer": "B",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": 7,
+      "question": "Choose the correct form: She is ______ than her sister.",
+      "options": {
+        "A": "tall",
+        "B": "taller",
+        "C": "tallest",
+        "D": "more taller"
+      },
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct passive voice: They are watching a movie.",
+      "options": {
+        "A": "A movie was watched by them.",
+        "B": "A movie is watched by them.",
+        "C": "A movie is being watched by them.",
+        "D": "A movie had been watched by them."
+      },
+      "answer": "C",
+      "difficulty": "medium"
+    },
+    {
+      "id": 9,
+      "question": "Identify the type of sentence: 'Please pass the salt.'",
+      "options": {
+        "A": "Exclamatory",
+        "B": "Imperative",
+        "C": "Interrogative",
+        "D": "Declarative"
+      },
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "He don't like pizza.",
+        "B": "She doesn't likes tea.",
+        "C": "They doesn't play cricket.",
+        "D": "She doesn't like tea."
+      },
+      "answer": "D",
+      "difficulty": "medium"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct preposition: She was born ____ 2001.",
+      "options": {
+        "A": "at",
+        "B": "on",
+        "C": "in",
+        "D": "to"
+      },
+      "answer": "C",
+      "difficulty": "medium"
+    },
+    {
+      "id": 12,
+      "question": "Which of these is an abstract noun?",
+      "options": {
+        "A": "Table",
+        "B": "Joy",
+        "C": "Dog",
+        "D": "Pencil"
+      },
+      "answer": "B",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": 13,
+      "question": "Choose the best word: He spoke in a very _____ manner.",
+      "options": {
+        "A": "polite",
+        "B": "politely",
+        "C": "politeness",
+        "D": "impolite"
+      },
+      "answer": "B",
+      "difficulty": "hard"
+    },
+    {
+      "id": 14,
+      "question": "Identify the error: Neither the team members nor the coach were present.",
+      "options": {
+        "A": "Neither",
+        "B": "the team members",
+        "C": "were",
+        "D": "present"
+      },
+      "answer": "C",
+      "difficulty": "hard"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct indirect speech: He said, “I will help you.”",
+      "options": {
+        "A": "He said that he would help me.",
+        "B": "He said he will help me.",
+        "C": "He said he would helped me.",
+        "D": "He said I would help you."
+      },
+      "answer": "A",
+      "difficulty": "hard"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct idiom: To hit the nail on the head means?",
+      "options": {
+        "A": "To hit someone",
+        "B": "To make a mistake",
+        "C": "To be exactly right",
+        "D": "To get injured"
+      },
+      "answer": "C",
+      "difficulty": "hard"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct prefix to complete the word: _____legal",
+      "options": {
+        "A": "Un",
+        "B": "Il",
+        "C": "Dis",
+        "D": "Im"
+      },
+      "answer": "B",
+      "difficulty": "hard"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "I have visited Paris last year.",
+        "B": "I visited Paris last year.",
+        "C": "I had visit Paris last year.",
+        "D": "I has visited Paris last year."
+      },
+      "answer": "B",
+      "difficulty": "hard"
+    },
+    {
+      "id": 19,
+      "question": "Find the synonym of 'Elated'",
+      "options": {
+        "A": "Depressed",
+        "B": "Happy",
+        "C": "Angry",
+        "D": "Confused"
+      },
+      "answer": "B",
+      "difficulty": "hard"
+    },
+    {
+      "id": 20,
+      "question": "Which word is the correct antonym for 'Courage'?",
+      "options": {
+        "A": "Fear",
+        "B": "Strength",
+        "C": "Boldness",
+        "D": "Bravery"
+      },
+      "answer": "A",
+      "difficulty": "hard"
+    }
+  ]
+}

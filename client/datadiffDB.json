@@ -1,0 +1,304 @@
+{
+  "dataSufficiencyQuestions": [
+    {
+      "id": 1,
+      "question": "What is the value of x?",
+      "statement1": "x + 3 = 10",
+      "statement2": "x – 2 = 5",
+      "options": {
+        "A": "Statement I alone is sufficient",
+        "B": "Statement II alone is sufficient",
+        "C": "Both statements together are sufficient",
+        "D": "Each statement alone is sufficient",
+        "E": "Statements I and II together are not sufficient"
+      },
+      "answer": "D",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "Is the number x divisible by 4?",
+      "statement1": "x is an even number.",
+      "statement2": "x is divisible by 2 and 8.",
+      "options": {
+        "A": "Statement I alone is sufficient",
+        "B": "Statement II alone is sufficient",
+        "C": "Both statements together are sufficient",
+        "D": "Each statement alone is sufficient",
+        "E": "Statements I and II together are not sufficient"
+      },
+      "answer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "Is y a prime number?",
+      "statement1": "y has only two positive divisors.",
+      "statement2": "y is odd and greater than 2.",
+      "options": {
+        "A": "Statement I alone is sufficient",
+        "B": "Statement II alone is sufficient",
+        "C": "Both statements together are sufficient",
+        "D": "Each statement alone is sufficient",
+        "E": "Statements I and II together are not sufficient"
+      },
+      "answer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "question": "Is a > b?",
+      "statement1": "a + b = 10",
+      "statement2": "a = 6",
+      "options": {
+        "A": "Statement I alone is sufficient",
+        "B": "Statement II alone is sufficient",
+        "C": "Both statements together are sufficient",
+        "D": "Each statement alone is sufficient",
+        "E": "Statements I and II together are not sufficient"
+      },
+      "answer": "C",
+      "difficulty": "easy"
+    },
+    {
+      "id": 5,
+      "question": "Is the number x a multiple of 5?",
+      "statement1": "x ends with 0.",
+      "statement2": "x ends with 5.",
+      "options": {
+        "A": "Statement I alone is sufficient",
+        "B": "Statement II alone is sufficient",
+        "C": "Both statements together are sufficient",
+        "D": "Each statement alone is sufficient",
+        "E": "Statements I and II together are not sufficient"
+      },
+      "answer": "D",
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "question": "What is the area of a rectangle?",
+      "statement1": "Length = 10cm",
+      "statement2": "Breadth = 5cm",
+      "options": {
+        "A": "Statement I alone is sufficient",
+        "B": "Statement II alone is sufficient",
+        "C": "Both statements together are sufficient",
+        "D": "Each statement alone is sufficient",
+        "E": "Statements I and II together are not sufficient"
+      },
+      "answer": "C",
+      "difficulty": "easy"
+    },
+    {
+      "id": 7,
+      "question": "Is n even?",
+      "statement1": "n^2 is even.",
+      "statement2": "n is divisible by 4.",
+      "options": {
+        "A": "Statement I alone is sufficient",
+        "B": "Statement II alone is sufficient",
+        "C": "Both statements together are sufficient",
+        "D": "Each statement alone is sufficient",
+        "E": "Statements I and II together are not sufficient"
+      },
+      "answer": "D",
+      "difficulty": "medium"
+    },
+    {
+      "id": 8,
+      "question": "What is the average of x, y, and z?",
+      "statement1": "x + y + z = 30",
+      "statement2": "x = y = z",
+      "options": {
+        "A": "Statement I alone is sufficient",
+        "B": "Statement II alone is sufficient",
+        "C": "Both statements together are sufficient",
+        "D": "Each statement alone is sufficient",
+        "E": "Statements I and II together are not sufficient"
+      },
+      "answer": "C",
+      "difficulty": "medium"
+    },
+    {
+      "id": 9,
+      "question": "What is the value of angle A in triangle ABC?",
+      "statement1": "Angle B = 60° and angle C = 50°",
+      "statement2": "Angle B + C = 110°",
+      "options": {
+        "A": "Statement I alone is sufficient",
+        "B": "Statement II alone is sufficient",
+        "C": "Both statements together are sufficient",
+        "D": "Each statement alone is sufficient",
+        "E": "Statements I and II together are not sufficient"
+      },
+      "answer": "D",
+      "difficulty": "medium"
+    },
+    {
+      "id": 10,
+      "question": "Is x > 0?",
+      "statement1": "x^2 > 0",
+      "statement2": "x is a real number",
+      "options": {
+        "A": "Statement I alone is sufficient",
+        "B": "Statement II alone is sufficient",
+        "C": "Both statements together are sufficient",
+        "D": "Each statement alone is sufficient",
+        "E": "Statements I and II together are not sufficient"
+      },
+      "answer": "E",
+      "difficulty": "medium"
+    },
+    {
+      "id": 11,
+      "question": "What is the age of Rina?",
+      "statement1": "Rina is twice as old as Raju.",
+      "statement2": "Five years ago, Raju was 10.",
+      "options": {
+        "A": "Statement I alone is sufficient",
+        "B": "Statement II alone is sufficient",
+        "C": "Both statements together are sufficient",
+        "D": "Each statement alone is sufficient",
+        "E": "Statements I and II together are not sufficient"
+      },
+      "answer": "C",
+      "difficulty": "medium"
+    },
+    {
+      "id": 12,
+      "question": "Is a positive integer divisible by 6?",
+      "statement1": "a is divisible by 3.",
+      "statement2": "a is divisible by 2.",
+      "options": {
+        "A": "Statement I alone is sufficient",
+        "B": "Statement II alone is sufficient",
+        "C": "Both statements together are sufficient",
+        "D": "Each statement alone is sufficient",
+        "E": "Statements I and II together are not sufficient"
+      },
+      "answer": "C",
+      "difficulty": "medium"
+    },
+    {
+      "id": 13,
+      "question": "What is the 5-digit number?",
+      "statement1": "The number is divisible by 11 and 9.",
+      "statement2": "The sum of its digits is 45.",
+      "options": {
+        "A": "Statement I alone is sufficient",
+        "B": "Statement II alone is sufficient",
+        "C": "Both statements together are sufficient",
+        "D": "Each statement alone is sufficient",
+        "E": "Statements I and II together are not sufficient"
+      },
+      "answer": "E",
+      "difficulty": "hard"
+    },
+    {
+      "id": 14,
+      "question": "Is the triangle equilateral?",
+      "statement1": "Two sides of the triangle are equal.",
+      "statement2": "All angles are equal.",
+      "options": {
+        "A": "Statement I alone is sufficient",
+        "B": "Statement II alone is sufficient",
+        "C": "Both statements together are sufficient",
+        "D": "Each statement alone is sufficient",
+        "E": "Statements I and II together are not sufficient"
+      },
+      "answer": "B",
+      "difficulty": "hard"
+    },
+    {
+      "id": 15,
+      "question": "What is the time taken to travel from A to B?",
+      "statement1": "Speed is 60 km/h.",
+      "statement2": "Distance is 180 km.",
+      "options": {
+        "A": "Statement I alone is sufficient",
+        "B": "Statement II alone is sufficient",
+        "C": "Both statements together are sufficient",
+        "D": "Each statement alone is sufficient",
+        "E": "Statements I and II together are not sufficient"
+      },
+      "answer": "C",
+      "difficulty": "hard"
+    },
+    {
+      "id": 16,
+      "question": "Is the number x a perfect square?",
+      "statement1": "x is divisible by 4 and 9.",
+      "statement2": "x is a square of an integer.",
+      "options": {
+        "A": "Statement I alone is sufficient",
+        "B": "Statement II alone is sufficient",
+        "C": "Both statements together are sufficient",
+        "D": "Each statement alone is sufficient",
+        "E": "Statements I and II together are not sufficient"
+      },
+      "answer": "B",
+      "difficulty": "hard"
+    },
+    {
+      "id": 17,
+      "question": "What is the perimeter of a square?",
+      "statement1": "The side of square is 8 cm.",
+      "statement2": "The area of the square is 64 sq. cm.",
+      "options": {
+        "A": "Statement I alone is sufficient",
+        "B": "Statement II alone is sufficient",
+        "C": "Both statements together are sufficient",
+        "D": "Each statement alone is sufficient",
+        "E": "Statements I and II together are not sufficient"
+      },
+      "answer": "D",
+      "difficulty": "hard"
+    },
+    {
+      "id": 18,
+      "question": "What is the value of a – b?",
+      "statement1": "a + b = 10",
+      "statement2": "a = 7",
+      "options": {
+        "A": "Statement I alone is sufficient",
+        "B": "Statement II alone is sufficient",
+        "C": "Both statements together are sufficient",
+        "D": "Each statement alone is sufficient",
+        "E": "Statements I and II together are not sufficient"
+      },
+      "answer": "C",
+      "difficulty": "hard"
+    },
+    {
+      "id": 19,
+      "question": "Is number x divisible by 6?",
+      "statement1": "x is divisible by 2 and 3.",
+      "statement2": "x is divisible by 12.",
+      "options": {
+        "A": "Statement I alone is sufficient",
+        "B": "Statement II alone is sufficient",
+        "C": "Both statements together are sufficient",
+        "D": "Each statement alone is sufficient",
+        "E": "Statements I and II together are not sufficient"
+      },
+      "answer": "D",
+      "difficulty": "hard"
+    },
+    {
+      "id": 20,
+      "question": "What is the 3-digit number?",
+      "statement1": "The number is divisible by 11 and 3.",
+      "statement2": "The number is a multiple of 99.",
+      "options": {
+        "A": "Statement I alone is sufficient",
+        "B": "Statement II alone is sufficient",
+        "C": "Both statements together are sufficient",
+        "D": "Each statement alone is sufficient",
+        "E": "Statements I and II together are not sufficient"
+      },
+      "answer": "B",
+      "difficulty": "hard"
+    }
+  ]
+}

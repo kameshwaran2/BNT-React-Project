@@ -1,0 +1,29 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "question": "What is an aptitude test?",
+      "answer": "An aptitude test is an assessment used to determine a person's skill or ability in a particular area."
+    },
+    {
+      "id": 2,
+      "question": "How many questions are in the Quantitative Aptitude section?",
+      "answer": "There are 10 questions in the Quantitative Aptitude section."
+    },
+    {
+      "id": 3,
+      "question": "Can I go back to a previous question?",
+      "answer": "No, once you move to the next question, you cannot return to the previous one."
+    },
+    {
+      "id": 4,
+      "question": "Is there any negative marking?",
+      "answer": "No, there is no negative marking unless specifically mentioned."
+    },
+    {
+      "id": 5,
+      "question": "How will I see my score?",
+      "answer": "Your score and results will be displayed after you complete the test."
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+.app-background {
+  background-image: url("https://aptitude-test.com/wp-content/uploads/2023/12/shutterstock_1016363545-_2_.webp");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.card {
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 40px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  width: 400px;
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.instruction-card {
+  min-height: 100%;
+  padding: 10px;
+}
+
+.card-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.card ul {
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+@media (max-width: 768px) {
+  .card-title {
+    font-size: 1rem;
+  }
+}
+/* chatbox styles */
+.chatbot-wrapper.light {
+  --bg-color: #fff;
+  --text-color: #000;
+}
+
+.chatbot-wrapper.dark {
+  --bg-color: #2c2c2c;
+  --text-color: #f0f0f0;
+}
+
+.chatbox {
+  position: fixed;
+  bottom: 80px;
+  right: 20px;
+  width: 300px;
+  max-height: 500px;
+  background: var(--bg-color);
+  color: var(--text-color);
+  border-radius: 12px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.chatbox-header,
+.chatbox-footer {
+  padding: 10px;
+  font-weight: bold;
+  border-bottom: 1px solid #ddd;
+}
+
+.chatbox-body {
+  flex: 1;
+  padding: 10px;
+  overflow-y: auto;
+  font-size: 14px;
+}
+
+.chat-message {
+  margin-bottom: 8px;
+  padding: 5px 10px;
+  border-radius: 10px;
+  max-width: 90%;
+}
+
+.chat-message.question {
+  background: #d1e7dd;
+  align-self: flex-start;
+}
+
+.chat-message.answer {
+  background: #cfe2ff;
+  align-self: flex-end;
+}
+
+.chat-icon {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  font-size: 24px;
+  padding: 10px 15px;
+  border-radius: 50%;
+  background: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.faq-btn {
+  margin: 4px;
+  padding: 5px 10px;
+  background: #e0e0e0;
+  border: none;
+  border-radius: 8px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.spinner {
+  display: flex;
+  align-items: center;
+}
+
+/* toggle mode */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", sans-serif;
+  transition: background 0.3s, color 0.3s;
+}
+
+body.light {
+  background-color: #ffffff;
+  color: #212121;
+}
+
+body.dark {
+  background-color: #121212;
+  color: #f1f1f1;
+}
+
+/* Navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 14px 24px;
+  background-color: var(--navbar-bg);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+}
+
+.navbar .nav-links {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.navbar .nav-links li a {
+  text-decoration: none;
+  color: white;
+}
+
+.navbar .mode-toggle {
+  background: none;
+  border: none;
+  font-size: 20px;
+  margin-left: 12px;
+  cursor: pointer;
+  color: dark;
+}
+
+.navbar .hamburger {
+  display: none; /* You can control via media queries */
+  background: none;
+  border: none;
+  font-size: 20px;
+  margin-left: 12px;
+  color: dark;
+}
+
+/* Card example */
+.card {
+  background-color: var(--card-bg);
+  color: inherit;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 600px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Dark/Light variables */
+body.light {
+  --navbar-bg: #ffffff;
+  --card-bg: #f8f9fa;
+}
+
+body.dark {
+  --navbar-bg: #1f1f1f;
+  --card-bg: #2a2a2a;
+}
+
+.submit-btn {
+  width: 100%;
+  padding: 10px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}

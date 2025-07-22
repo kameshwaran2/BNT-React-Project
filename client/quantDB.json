@@ -1,0 +1,246 @@
+{
+  "quantQuestions": [
+    {
+      "id": 1,
+      "question": "What is the value of 25 + 36?",
+      "options": {
+        "A": "51",
+        "B": "61",
+        "C": "60",
+        "D": "62"
+      },
+      "answer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "A train running at 60 km/h crosses a pole in 9 seconds. What is the length of the train?",
+      "options": {
+        "A": "120 m",
+        "B": "150 m",
+        "C": "180 m",
+        "D": "135 m"
+      },
+      "answer": "C",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "Find the HCF of 24 and 36.",
+      "options": {
+        "A": "6",
+        "B": "12",
+        "C": "18",
+        "D": "24"
+      },
+      "answer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "question": "What is 10% of 250?",
+      "options": {
+        "A": "20",
+        "B": "25",
+        "C": "30",
+        "D": "35"
+      },
+      "answer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "id": 5,
+      "question": "What is the square of 15?",
+      "options": {
+        "A": "200",
+        "B": "215",
+        "C": "225",
+        "D": "250"
+      },
+      "answer": "C",
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "question": "If x = 5, what is the value of x² + 2x + 1?",
+      "options": {
+        "A": "25",
+        "B": "36",
+        "C": "49",
+        "D": "64"
+      },
+      "answer": "C",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": 7,
+      "question": "A man can cover a distance in 3 hours at 60 km/h. What is the distance?",
+      "options": {
+        "A": "160 km",
+        "B": "150 km",
+        "C": "180 km",
+        "D": "200 km"
+      },
+      "answer": "C",
+      "difficulty": "medium"
+    },
+    {
+      "id": 8,
+      "question": "If a shopkeeper sells an article for ₹2400 at a loss of 4%, what is the cost price?",
+      "options": {
+        "A": "2500",
+        "B": "2400",
+        "C": "2600",
+        "D": "2700"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 9,
+      "question": "If x + y = 10 and xy = 21, what is x² + y²?",
+      "options": {
+        "A": "58",
+        "B": "62",
+        "C": "65",
+        "D": "70"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 10,
+      "question": "What is the compound interest on ₹10000 at 10% p.a for 2 years?",
+      "options": {
+        "A": "2000",
+        "B": "2100",
+        "C": "2200",
+        "D": "2300"
+      },
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "id": 11,
+      "question": "Solve: (a² - b²)/(a - b)",
+      "options": {
+        "A": "a + b",
+        "B": "a - b",
+        "C": "a² + b²",
+        "D": "a² - b²"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 12,
+      "question": "If the perimeter of a square is 64 cm, find its area.",
+      "options": {
+        "A": "256 cm²",
+        "B": "128 cm²",
+        "C": "144 cm²",
+        "D": "100 cm²"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": 13,
+      "question": "If a number is divided by 7, the remainder is 3. What will be the remainder if the square of the number is divided by 7?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "1"
+      },
+      "answer": "C",
+      "difficulty": "hard"
+    },
+    {
+      "id": 14,
+      "question": "In what time will ₹8000 amount to ₹9261 at 10% p.a compound interest?",
+      "options": {
+        "A": "2 years",
+        "B": "1.5 years",
+        "C": "1 year",
+        "D": "3 years"
+      },
+      "answer": "A",
+      "difficulty": "hard"
+    },
+    {
+      "id": 15,
+      "question": "A person lent ₹5000 at simple interest and ₹2000 at compound interest. If both amounts become equal in 3 years, find the rate of interest.",
+      "options": {
+        "A": "5%",
+        "B": "10%",
+        "C": "15%",
+        "D": "20%"
+      },
+      "answer": "B",
+      "difficulty": "hard"
+    },
+    {
+      "id": 16,
+      "question": "A can do a job in 12 days, B in 15 days. With help of C, they can finish in 5 days. C alone can do it in?",
+      "options": {
+        "A": "20 days",
+        "B": "25 days",
+        "C": "30 days",
+        "D": "24 days"
+      },
+      "answer": "C",
+      "difficulty": "hard"
+    },
+    {
+      "id": 17,
+      "question": "Solve: 2x² - 3x - 2 = 0",
+      "options": {
+        "A": "2, -1/2",
+        "B": "-2, 1/2",
+        "C": "1, -2",
+        "D": "2, -1"
+      },
+      "answer": "A",
+      "difficulty": "hard"
+    },
+    {
+      "id": 18,
+      "question": "What is the average of first 10 multiples of 7?",
+      "options": {
+        "A": "35",
+        "B": "38.5",
+        "C": "40",
+        "D": "45"
+      },
+      "answer": "B",
+      "difficulty": "hard"
+    },
+    {
+      "id": 19,
+      "question": "A trader marked an item 40% above cost and sold it at 30% discount. What is the profit/loss percent?",
+      "options": {
+        "A": "2% profit",
+        "B": "5% profit",
+        "C": "2% loss",
+        "D": "5% loss"
+      },
+      "answer": "A",
+      "difficulty": "hard"
+    },
+    {
+      "id": 20,
+      "question": "The average age of 5 members is 25. If a new member joins, the average becomes 24. What is the age of the new member?",
+      "options": {
+        "A": "18",
+        "B": "20",
+        "C": "22",
+        "D": "19"
+      },
+      "answer": "D",
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "logicalQuestions": [
+    {
+      "id": 1,
+      "question": "What comes next in the series? 2, 4, 8, 16, ?",
+      "options": {
+        "A": "18",
+        "B": "24",
+        "C": "32",
+        "D": "36"
+      },
+      "answer": "C",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "Find the odd one out: Apple, Banana, Carrot, Mango",
+      "options": {
+        "A": "Apple",
+        "B": "Banana",
+        "C": "Carrot",
+        "D": "Mango"
+      },
+      "answer": "C",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "If CAT is coded as 3120, what is DOG?",
+      "options": {
+        "A": "4157",
+        "B": "4176",
+        "C": "4156",
+        "D": "4146"
+      },
+      "answer": "C",
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "question": "Which number is missing? 3, 6, 11, 18, ?, 38",
+      "options": {
+        "A": "25",
+        "B": "27",
+        "C": "28",
+        "D": "26"
+      },
+      "answer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "id": 5,
+      "question": "If A=1, B=2, ..., then what is the value of 'BAD'?",
+      "options": {
+        "A": "7",
+        "B": "6",
+        "C": "9",
+        "D": "8"
+      },
+      "answer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "question": "Find the missing number: 64, 32, 16, ?, 4",
+      "options": {
+        "A": "6",
+        "B": "8",
+        "C": "10",
+        "D": "12"
+      },
+      "answer": "B",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": 7,
+      "question": "Find the odd one: Triangle, Square, Circle, Rectangle",
+      "options": {
+        "A": "Circle",
+        "B": "Square",
+        "C": "Rectangle",
+        "D": "Triangle"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 8,
+      "question": "If in a code, 'ROAD' is written as 'URDG', then 'RAIL' is:",
+      "options": {
+        "A": "UDLO",
+        "B": "UDML",
+        "C": "UDPL",
+        "D": "UDNL"
+      },
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "id": 9,
+      "question": "Which number fits? 1, 3, 6, 10, 15, ?",
+      "options": {
+        "A": "20",
+        "B": "21",
+        "C": "22",
+        "D": "24"
+      },
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "id": 10,
+      "question": "If some pens are books and all books are papers, which is true?",
+      "options": {
+        "A": "Some papers are pens",
+        "B": "All pens are papers",
+        "C": "No pens are papers",
+        "D": "All books are pens"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "id": 11,
+      "question": "Choose the word that doesn't belong: Walk, Jog, Run, Sit",
+      "options": {
+        "A": "Run",
+        "B": "Jog",
+        "C": "Sit",
+        "D": "Walk"
+      },
+      "answer": "C",
+      "difficulty": "medium"
+    },
+    {
+      "id": 12,
+      "question": "Which letter comes next? A, C, F, J, O, ?",
+      "options": {
+        "A": "U",
+        "B": "T",
+        "C": "S",
+        "D": "V"
+      },
+      "answer": "A",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": 13,
+      "question": "Statement: All artists are dancers. All dancers are singers. Conclusion: All artists are singers.",
+      "options": {
+        "A": "Only conclusion follows",
+        "B": "Both follow",
+        "C": "Neither follows",
+        "D": "Only second follows"
+      },
+      "answer": "A",
+      "difficulty": "hard"
+    },
+    {
+      "id": 14,
+      "question": "If 2 + 3 = 13, 3 + 4 = 25, 4 + 5 = 41, then 5 + 6 = ?",
+      "options": {
+        "A": "61",
+        "B": "63",
+        "C": "65",
+        "D": "67"
+      },
+      "answer": "C",
+      "difficulty": "hard"
+    },
+    {
+      "id": 15,
+      "question": "In a certain language, 'CLOCK' is coded as 'DMPDL'. How is 'WATCH' coded?",
+      "options": {
+        "A": "XBVUI",
+        "B": "XBVSI",
+        "C": "XBUVI",
+        "D": "XCVUI"
+      },
+      "answer": "A",
+      "difficulty": "hard"
+    },
+    {
+      "id": 16,
+      "question": "Which number comes next? 121, 144, 169, ?",
+      "options": {
+        "A": "190",
+        "B": "196",
+        "C": "200",
+        "D": "202"
+      },
+      "answer": "B",
+      "difficulty": "hard"
+    },
+    {
+      "id": 17,
+      "question": "What comes next in series: AZ, BY, CX, ?",
+      "options": {
+        "A": "DW",
+        "B": "EV",
+        "C": "DU",
+        "D": "DX"
+      },
+      "answer": "A",
+      "difficulty": "hard"
+    },
+    {
+      "id": 18,
+      "question": "If 'BLACK' is 23145 and 'WHITE' is 67890, what is 'CATCH'?",
+      "options": {
+        "A": "14370",
+        "B": "14580",
+        "C": "14380",
+        "D": "14390"
+      },
+      "answer": "C",
+      "difficulty": "hard"
+    },
+    {
+      "id": 19,
+      "question": "Which number replaces the question mark? 7, 14, 28, 56, ?",
+      "options": {
+        "A": "112",
+        "B": "110",
+        "C": "108",
+        "D": "100"
+      },
+      "answer": "A",
+      "difficulty": "hard"
+    },
+    {
+      "id": 20,
+      "question": "If BREAD is coded as 51234, what is BEARD?",
+      "options": {
+        "A": "51324",
+        "B": "51243",
+        "C": "51432",
+        "D": "51423"
+      },
+      "answer": "B",
+      "difficulty": "hard"
+    }
+  ]
+}
